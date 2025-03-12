@@ -1,0 +1,7 @@
+
+earthengine-api>=0.1.290
+geemap>=0.20.0
+pandas>=1.5.0
+numpy>=1.24.0
+
+⚠️ Note: If you're purely using the Earth Engine Code Editor (JavaScript), this file is optional and mostly for people working on Python GEE extensions.
