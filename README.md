@@ -80,7 +80,7 @@ Color scales:
 ## 📦 Requirements
 
 - **Google Earth Engine account**: [Sign up here](https://signup.earthengine.google.com/).
-- Uploaded **farm boundary shapefile/asset** to GEE as `projects/gis306/assets/farm_boundary`.
+- Uploaded **farm boundary shapefile/asset** to GEE you can use a custom boundary or the one i made available
 - Basic familiarity with **GEE JavaScript API**.
 
 ---
@@ -102,4 +102,4 @@ Color scales:
 
 ## 📬 Contact
 
-For questions or collaborations, feel free to reach out via [GitHub Issues](https://github.com/your-repo/issues) or email.
+For questions or collaborations, feel free to reach out via [GitHub Issues](https://github.com/your-repo/issues) or fangbanye@gmail.com.
